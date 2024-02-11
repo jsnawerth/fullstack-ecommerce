@@ -5,7 +5,7 @@
   "type": "module",
   "author": "Jerry Nawerth",
   "description": "A project for practicing full-stack development skills.",
-  "license": "MIT",
+  "license": "IBM",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
